@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/78cb98a6-e85d-48fc-968c-48e936910361)
 
 
-# Hi , I'm Zeyad Zahran 👋
+# Hi , I'm Zeyad Zahran 🌠
 - 2nd year computer science student @ Zagazig Unvisrsity
 - Pupil @ [codeforces](https://codeforces.com/profile/Zeyad_Zahran)
 - Mentor @ [ICPC Zagzig Community](https://icpczagazig.org/)
