@@ -4,7 +4,7 @@
 
 ## Hi , I'm Zeyad Zahran 🌠
 - 2nd year computer science student @ Zagazig Unvisrsity
-- Pupil @ [codeforces](https://codeforces.com/profile/Zeyad_Zahran)
+- Expert @ [codeforces](https://codeforces.com/profile/Zeyad_Zahran)
 - Mentor @ [ICPC Zagzig Community](https://icpczagazig.org/)
 - Backend track member @ [IEEE ZSB CS Chapter](https://www.facebook.com/IEEE.CS.ZSC)
 
