@@ -4,21 +4,10 @@
 
 ## Hi , I'm Zeyad Zahran 🌠
 - 3rd year computer science student @ Zagazig Unvisrsity
+- ACPC Finalist
 - Expert @ [codeforces](https://codeforces.com/profile/Zeyad_Zahran)
 - Community leader & Instructor @ [ICPC Zagzig Community](https://icpczagazig.org/)
-- Backend track member @ [IEEE ZSB CS Chapter](https://www.facebook.com/IEEE.CS.ZSC)
-
-
-
-
-### Currently Learning
-- HTML
-- CSS
-- php
-- C#
-- mysql
-- Enhancing my knowledge of C++, OOP, Data Structures and Algorithms 
-
+  
 ---
 
 ### Skills 
