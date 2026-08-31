@@ -3,7 +3,7 @@
 
 
 ## Hi , I'm Zeyad Zahran 🌠
-- 3rd year computer science student @ Zagazig Unvisrsity
+- Final-year computer science student @ Zagazig University
 - ACPC Finalist
 - Expert @ [codeforces](https://codeforces.com/profile/Zeyad_Zahran)
 - Community leader & Instructor @ [ICPC Zagzig Community](https://icpczagazig.org/)
