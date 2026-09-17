@@ -6,7 +6,7 @@
 - Final-year computer science student @ Zagazig University
 - ACPC Finalist
 - Expert @ [codeforces](https://codeforces.com/profile/Zeyad_Zahran)
-- Community leader & Instructor @ [ICPC Zagzig Community](https://icpczagazig.org/)
+- ex-Community leader & Instructor @ [ICPC Zagzig Community](https://icpczagazig.org/)
 
 ---
 
